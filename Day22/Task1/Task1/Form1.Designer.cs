@@ -48,6 +48,7 @@
             // 
             // textBoxY
             // 
+            textBoxY.AllowDrop = true;
             textBoxY.Location = new Point(503, 144);
             textBoxY.Name = "textBoxY";
             textBoxY.Size = new Size(125, 27);
